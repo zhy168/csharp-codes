@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "form_test_1", "form_test_1.csproj", "{4FB9737E-6E44-4ED3-BBFE-192568784155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB9737E-6E44-4ED3-BBFE-192568784155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB9737E-6E44-4ED3-BBFE-192568784155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB9737E-6E44-4ED3-BBFE-192568784155}.Debug|x64.ActiveCfg = Debug|x64
+		{4FB9737E-6E44-4ED3-BBFE-192568784155}.Debug|x64.Build.0 = Debug|x64
+		{4FB9737E-6E44-4ED3-BBFE-192568784155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB9737E-6E44-4ED3-BBFE-192568784155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB9737E-6E44-4ED3-BBFE-192568784155}.Release|x64.ActiveCfg = Release|x64
+		{4FB9737E-6E44-4ED3-BBFE-192568784155}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38C61192-9550-4173-AFB8-FB597A26FDEA}
+	EndGlobalSection
+EndGlobal
